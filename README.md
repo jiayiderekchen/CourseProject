@@ -2,12 +2,12 @@
 
 ylchua2@illinois.edu
 
-Project Proposal - proposal.pdf
+Project Proposal - proposal_ylchua2.pdf
 
 Project Progress Report - progress_report.pdf
 
-Project Code
+Project Code - notebook.ipynb (working copy), notebook_final.ipynb (notebook with outputs kept), notebook_final.pdf (pdf version)
 
-Documentation
+Documentation - final_report.pdf (Writeup of the final project)
 
-Presentation
+Presentation - https://youtu.be/dE7jiio5QAM
