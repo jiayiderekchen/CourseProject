@@ -2,9 +2,9 @@
 
 ylchua2@illinois.edu
 
-Project Proposal
+Project Proposal - proposal.pdf
 
-Project Progress Report
+Project Progress Report - progress_report.pdf
 
 Project Code
 
